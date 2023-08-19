@@ -1,0 +1,266 @@
+[
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":{
+            "endpos":2783,
+            "lastgroup":null,
+            "lastindex":1,
+            "pos":0,
+            "re":{
+                "flags":32,
+                "groupindex":{
+
+                },
+                "groups":1,
+                "pattern":"Invoice Date: (.+)"
+            },
+            "regs":[
+                [
+                    524,
+                    549
+                ],
+                [
+                    538,
+                    549
+                ]
+            ],
+            "string":"12 Uyry\n\nSHAKUNTECH PACKING PVT. LTD.\n\nAn ISO 9001:2015 Certified Company\n\nSurvey No. 527, Nashik-Mumbai Highway, Village Gonde (Dumala), Tal. Igatpuri, Dist. Nashik, Pin 422403, Maharashtra, India.\nPhone : +91 9552 193193 | Email : sunil.ghube@shakuntechpack.com \/ shakuntechpac@yahoo.com | Web : www.shakuntechpack.com\n\nCIN:U74950MH2010PTC208397 | PAN No.: AAOCS8097E | IEC No.: 3110018179 | GSTIN: 27AAOCS8097E1ZP\n\nOriginal for Receipient\/Buyer\n\nTAX INVOICE\nPO No.: CG1902164 PO Dt. 08-Aug-2019] Invoice No. 19-20 \/ 0630 Invoice Date: 13-Aug-2019\n\nDetails of Consignee (Shipped to) :\nPANCHASHIL INDUSTRIES (NASHIK) PVT. LTD.\n\nDetails of Receiver (Billed to) :\nEFACEC INDIA PVT.LTD. (C-4)\n\nPLOT NO C-4 PLOT NO D-50\nGARWARE - XLO LINK ROAD MIDC AREA\n\nMIDC AREA AMBAD SATPUR\n\nNASHIK Pin: 422010 NASHIK Pin:\n\nMaharashtra State Code - MH-27 Maharashtra State Code - MH-27\n\nK\/A: MR. SUNIL BHABAD Mob: 9823261150 K\/A: MR. SUNIL BHABAD Mob: 9823261150\nGSTIN- 27AACCE4200H1Z4 GSTIN- 27AAHCP1181B1ZQ\n\nDescription of Goods GSTHSNCode[ Uom [Qty | Rate |\n\nBOX FOR PACKING, SIZE BY CUSTOMER (Inclusive of - 44151000 NOS df 2,044.00\nBox, Desiccant Pouch, Stretch Film, Strap & Buckle, Edge\nProtector) (for C-04 Panchashil Spares, Box ID = 600 x 500 x\n400)\n\nBOX FOR PACKING SIZE BY CUSTOMER.- (Inclusive of - 44151000\nBox, Desiccant Pouch, Stretch Film, Strap & Buckle, Edge\nProtector) (for C-04 Panchashil Spares, Box ID = 800 x 660 x\n500)\n\nBOX FOR PACKING SIZE BY CUSTOMER - (Inclusive of - 44151000\nBox, Desiccant Pouch, Stretch Film, Strap & Buckle, Edge\nProtector) (for C-04 Panchashil Spares, Box ID = 800 x 660 x\n1000)\n\nBOX FOR PACKING SIZE BY CUSTOMER: (Inclusive of - 44151000\nBox, Desiccant Pouch, Stretch Film, Strap & Buckle, Edge\n\nProtector) (for C-04 Panchashil Spares, Box ID = 600 x 600 x\n600)\n\nTotal Amount\n\n2,764.00\n\n3,772.00\n\n2,544.00\n\nos\nR F623 EEE f\n\n<\n\nPayment Terms: Within 60 Days from the date of Invoice. Total Taxable Value: 11,124.00\nTWO THOUSAND TWO ONLY\n\nImportant Note- If you have any complaint regarding Quantity or Rate or\nInvoice Total : 13,126.00\n\nSizes or Quality then it should be reported to us by e-mail witin 3 days from\nFor SHAKUNTECH PACKING PVT. LTD.\n\nreceipt of material otherwise we will consider your fully acceptance to\nmaterial delivered as well to Invoice submitted.\n\n$< $< ee\n\n\u2014\u2014\u2014\u2014\u2014\n\nNote: 1) All the transactions & bill are subject to Nashik jurisdiction.2) If any discrepancy that to be\nAuthorised Signatory\n\nbrought to our notice within 3 days from the date of material receipt.3) Interest @24% P.A. will be\ncollected from buyer in addition to the bill amount if payment of this bill is not received within due\ndate.\n\nIssue Date & Time: Removal Date & Time:\n\n13-Aug-2019\n\nVehicle No.:\nMHS EG o&ls\n\n13-Aug-2019 16:59\n\nMode Of Transport- Road\n\n"
+        },
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    },
+    {
+        "Invoice number":null,
+        "Invoice date":null,
+        "GST number":null,
+        "Vendor name":null,
+        "Vendor address":null,
+        "Delivery address":null,
+        "Buyer name":null,
+        "Buyer address":null,
+        "ItemDetails":[
+
+        ],
+        "Total invoice amount":null,
+        "Total tax amount":null,
+        "PO number":null
+    }
+]
